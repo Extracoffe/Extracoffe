@@ -1,7 +1,5 @@
-<!-- BANNER SUPERIOR (Substitua o link pelo da sua imagem roxa se tiver uma URL para ela) -->
 <img src="https://i.imgur.com/YOUR_TOP_BANNER.png" alt="Banner Top" width="100%">
 
-<!-- TÍTULO ANIMADO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A900FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+André!+👋;Graduating+in+Systems+Development;" alt="Typing SVG" />
@@ -69,9 +67,7 @@
 
 ### 👁️ Visitors Count
 <div align="center">
-  <!-- Esse contador funciona automaticamente -->
   <img src="https://profile-counter.glitch.me/Extracoffe/search.svg" alt="Visitors" />
 </div>
 
-<!-- BANNER INFERIOR -->
 <img src="https://i.imgur.com/YOUR_BOTTOM_BANNER.png" alt="Banner Bottom" width="100%">
