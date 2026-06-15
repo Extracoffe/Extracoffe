@@ -49,16 +49,16 @@
 
 ### 🤝 Let's connect!
 <div align="center">
-  <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+  <a href="https://instagram.com/andre_rmls" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://youtube.com/c/SEU_CANAL" target="_blank">
+  <a href="https://youtube.com/c/@extracoffe8441" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:andrerodartematos@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/andrerodarte" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
