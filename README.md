@@ -12,7 +12,7 @@
 - 🎓 Estudante de **Desenvolvimento de Sistemas**
 - 🌱 Focando meus estudos atualmente em **React.js, Node.js e JavaScript**
 - 💡 Apaixonado por tecnologia e sempre em busca de aprender novas ferramentas.
-- 📫 Como me encontrar: **[SEU EMAIL AQUI]**
+- 📫 Como me encontrar: **andrerodartematos@gmail.com**
 
 <br>
 
