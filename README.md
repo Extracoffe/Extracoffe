@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/YOUR_TOP_BANNER.png" alt="Banner Top" width="100%">
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A900FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+André!+👋;Graduating+in+Systems+Development;" alt="Typing SVG" />
@@ -62,12 +60,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
-<br>
-
-### 👁️ Visitors Count
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Extracoffe/search.svg" alt="Visitors" />
-</div>
-
-<img src="https://i.imgur.com/YOUR_BOTTOM_BANNER.png" alt="Banner Bottom" width="100%">
